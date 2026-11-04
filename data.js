@@ -120,6 +120,14 @@ const DATA = {
    },
    "al": [
     "la fuerza"
+   ],
+   "menc": [
+    {
+     "ts": "2026-10-08T06:34:29Z",
+     "d": "2026-10-08",
+     "p": "Guido",
+     "q": "Tremendo como salía La Fuerza en una época"
+    }
    ]
   },
   {
@@ -187,6 +195,14 @@ const DATA = {
    },
    "al": [
     "el antojo"
+   ],
+   "menc": [
+    {
+     "ts": "2026-10-28T22:32:23Z",
+     "d": "2026-10-28",
+     "p": "Nico",
+     "q": "Quien habia ido a El Antojo? Opiniones?"
+    }
    ]
   },
   {
@@ -532,6 +548,14 @@ const DATA = {
    },
    "al": [
     "al fares"
+   ],
+   "menc": [
+    {
+     "ts": "2026-10-08T11:37:27Z",
+     "d": "2026-10-08",
+     "p": "Javi",
+     "q": "Al fares de Eric muy bueno, sirios reales"
+    }
    ]
   },
   {
@@ -2257,6 +2281,8 @@ const DATA = {
   "Uri L."
  ],
  "meta": {
-  "procesadoHasta": "2026-09-30T22:36:06Z"
+  "procesadoHasta": "2026-10-30T16:36:56Z",
+  "ultimoId": 44868,
+  "corrida": "2026-11-04"
  }
 };
